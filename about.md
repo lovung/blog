@@ -4,12 +4,22 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+🔭 I’m currently working on Backend Engineer with Golang
+🌱 I’m currently learning Golang, Flutter, K8s, Docker, CNCF.io projects, Vim, Databases
+👯 I’m looking to collaborate on Golang & Flutter open source projects
+💬 Ask me about Golang, Flutter & CI/CD
+📫 How to reach me: vulong1602@gmail.com
+😄 Pronouns: Mr. Vũ Long
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+- "I'm an Solfware Engineer from Vietnam . . .
+- "I'm a Golang and Flutter enthusiast . . .
+- I'm a vim user . . .
+- I'm a great player in any team . . .
+- I have a passion for writing great applications . . .
+- I can also be a team leader . . .
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[vulong1602@gmail.com](mailto:vulong1602@gmail.com)

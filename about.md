@@ -16,8 +16,8 @@ permalink: /about/
 
 ### More Information
 
-- "I'm an Solfware Engineer from Vietnam . . .
-- "I'm a Golang and Flutter enthusiast . . .
+- I'm a Software Engineer from Vietnam . . .
+- I'm a Golang and Flutter enthusiast . . .
 - I'm a vim user . . .
 - I'm a great player in any team . . .
 - I have a passion for writing great applications . . .

@@ -5,10 +5,13 @@ permalink: /about/
 ---
 
 🔭 I’m currently working on Backend Engineer with Golang
+
 🌱 I’m currently learning Golang, Flutter, K8s, Docker, CNCF.io projects, Vim, Databases
+
 👯 I’m looking to collaborate on Golang & Flutter open source projects
+
 💬 Ask me about Golang, Flutter & CI/CD
-📫 How to reach me: vulong1602@gmail.com
+
 😄 Pronouns: Mr. Vũ Long
 
 ### More Information
